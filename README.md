@@ -1,0 +1,1 @@
+This repository contains a simple Java program demonstrating an ArrayIndexOutOfBoundsException. The bug occurs because the loop iterates one element beyond the array's size, resulting in an attempt to access a non-existent element at index 5 of a size 5 array.  The solution demonstrates how to correctly iterate within the array bounds to prevent this error.
